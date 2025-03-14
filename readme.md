@@ -1,5 +1,5 @@
 # ptud-gk-de-1
-### Huỳnh Hoàng Thuận-22673181
+### Phạm Duy Thông- 22664351
 - bước 1 tạo môi trường
 + python version 3.11.0rc1
 + python -m venv myenv
